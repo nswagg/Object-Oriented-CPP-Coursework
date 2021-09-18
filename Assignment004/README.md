@@ -1,3 +1,5 @@
+Tags: struct, objects, list, object manipulation, input validation, pointers
+
 Write a program that simultates inventory bins in a warehouse. 
 Each bin holds a number of the same type of parts. The program
 should use a structure that keeps the following data:
@@ -17,5 +19,3 @@ Input Validation:
 No bin can hold more than 30 parts, so don't let the usre add more
 than a bin can hold. Also, don't accept negative values for the 
 number of parts being added or removed.
-
-Tags: struct, objects, list, object manipulation, input validation, pointers
